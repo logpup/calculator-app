@@ -1,4 +1,6 @@
-<head><title>Hello World</title></head>
+<!DOCTYPE html>
+<html lang="eng">
+<head><title>Calculator</title></head>
 <body>
 <form action="calculator.php" method="get">
     x:  <input type="text" name="x" /><br />
@@ -29,9 +31,6 @@ if ($op == "*") {
     echo $x - $y;;
 }
 
-// printf("<p>Hello, %s; how do you do?</p>\n",
-//     htmlentities($name)
-// );
 ?>
 </body>
 </html>
