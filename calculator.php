@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="eng">
+<html lang="en">
 <head><title>Calculator</title></head>
 <body>
 <form action="calculator.php" method="get">
